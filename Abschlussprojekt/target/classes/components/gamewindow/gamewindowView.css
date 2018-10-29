@@ -1,0 +1,10 @@
+#rootpane {
+    -fx-background-color: linear-gradient( #64aaed, cornflowerblue );
+}
+
+#gamebar, #infobar {
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-font-size: 20px;
+}
+
